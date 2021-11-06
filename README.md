@@ -6,7 +6,7 @@ I'm an experienced Software Engineer with a demonstrated history of working in t
 
 #### Github Stats
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renodesper&layout=compact)](https://github.com/renodesper) | ![Boy's github stats](https://github-readme-stats.vercel.app/api?username=renodesper&hide=contribs,prs,stars&show_icons=true&count_private=true) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renodesper&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=renodesper&layout=compact) | ![Boy's github stats](https://github-readme-stats.vercel.app/api?username=renodesper&hide=contribs,prs,stars&show_icons=true&count_private=true) |
 | ------------- |:-------------:|
 
 <!--

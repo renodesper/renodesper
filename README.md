@@ -1,6 +1,12 @@
 ### Hi there
 
-I'm an experienced Software Engineer with a demonstrated history of working in the internet industry. Skilled in Go, Node.js, and Python. Have experience working on monolithic, microservices, and event streaming architecture. Strong engineering professional with a Bachelor's Degree focused in Informatic Engineering.
+I’m a Principal Engineer with 10+ years of experience building scalable, maintainable backend systems across various industries, including online media, ad tech, OTT platforms, e-commerce, and edutech.
+
+My core strengths lie in designing pragmatic backend architectures (ranging from monoliths to microservices and event-driven systems) and implementing them with a strong focus on clean code, observability, and developer ergonomics.
+
+I’m fluent in multiple languages and stacks, including Go, Node.js/TypeScript, PHP, Python, and a bit of Rust and Haskell. I enjoy getting hands-on when needed, whether bootstrapping infrastructure, writing features, debugging production issues, or improving developer tooling.
+
+I believe good engineering goes beyond code. I strive to align tech decisions with business needs, mentor teams, and create a collaborative culture that prioritizes quality and measurable impact.
 
 ---
 
